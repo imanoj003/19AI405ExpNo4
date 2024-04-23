@@ -1,4 +1,4 @@
-## ExpNo 4 : Implement A* search algorithm for a Graph
+# ExpNo 4 : Implement A* search algorithm for a Graph
 
 ## Name: Manoj M
 ## Register Number: 212221240027
